@@ -1,0 +1,19 @@
+.homepage-container {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.table {
+  width: 100%;
+}
+
+.table th,
+.table td {
+  padding: 8px;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.table th {
+  background-color: #f8f9fa;
+}
